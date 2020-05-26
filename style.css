@@ -1,5 +1,6 @@
 h1{
   font-size: 28px;
   border: solid 1px;
-  display: flex;
+  display: block;
+
 }
